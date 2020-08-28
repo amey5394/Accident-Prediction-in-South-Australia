@@ -1,0 +1,29 @@
+https://www.kaggle.com/theworldbank/ida-statement-of-credits-and-grants-data
+
+https://www.kaggle.com/silicon99/dft-accident-data
+
+https://www.kaggle.com/tsiaras/uk-road-safety-accidents-and-vehicles
+
+https://www.kaggle.com/chicago/chicago-crime
+
+https://www.kaggle.com/mlg-ulb/creditcardfraud/home
+
+https://www.kaggle.com/tejasreddy/iam-handwriting-top50
+
+https://www.kaggle.com/szamil/who-suicide-statistics
+
+https://data.sa.gov.au/data/dataset/road-crash-data/resource/0eaab121-c659-4e5b-9d7d-98f2942c8969
+
+
+
+3Wuj.+T8dDUDrb{
+35.238.217.213
+10.128.0.2
+cloudcomputing.eastus.cloudapp.azure.com
+
+
+Virtual Network - Ameyvnet762
+Public IP - cloudcomputing-ip 52.187.240.112
+DNS - cloudassignment.australiaeast.cloudapp.azure.com
+username - 
+
