@@ -26,7 +26,7 @@ y = dataset.iloc[:, 26].values
 ```
 The data set sonsists of some parameters based on which I have prepared a model to predict the road accidents
 
-![image](https://user-images.githubusercontent.com/30070656/91529056-f75b5b80-e94b-11ea-8b47-00194291a589.png)|
+![image](https://user-images.githubusercontent.com/30070656/91529857-6ab19d00-e94d-11ea-86a4-fab1cfd3617d.png)
 
 ### Preparing Data
 Prior using the data for machine learning algorithms, it often must be cleaned, normalised or formatted — this is known as data preprocessing. As this dataset was uploaded on the government website to keep a track of the previous accidents the data was pretty much clean and normalised only certain location names were to be adjusted. This preprocessing can help with the outcome and predictive capability of almost all types of learning algorithms.
