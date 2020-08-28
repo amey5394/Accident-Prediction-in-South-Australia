@@ -146,3 +146,7 @@ cm = confusion_matrix(y_test, y_pred)
 
 ### ANN model training
 ![image](https://user-images.githubusercontent.com/30070656/91531525-44413100-e950-11ea-9472-20f6ed171ab8.png)
+
+
+### Evaluation 
+Artificial Neural Networks as it gives a better prediction of results along with the highest accuracy on the predicted data. Using appropriate number of input, output and hidden layers and the appropriate loss function. The loss function and the number of layers has been changed and tested but increasing the number of layers wouldn’t affect the prediction of the accurate results or accuracy but decreasing the number of layers drastically reduced the accuracy and increased the loss.
